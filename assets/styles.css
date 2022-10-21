@@ -1,0 +1,231 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    height: 100%;
+    font-family: 'Quicksand', sans-serif;
+    background: linear-gradient(rgba(0, 0, 0, 0.541), rgba(0, 0, 0, 0.541)), url('https://cutewallpaper.org/25/anime-pixel-wallpaper-gif/galaxxy-idols-bg-the-lounge-by-nanocanyon-on-newgrounds-pixel-art-background-cool-pixel-art-anime-pixel-art.gif');
+}
+.container {
+    top: 15px;
+    left: 7.8%;
+   
+}
+.c2y {
+   top: -40px;
+   left: 8%;
+}
+.card {
+    border-radius: 18px;
+}
+button:hover {
+    background-color: rgb(255, 9, 255);
+}
+.form-group input,
+.form-group input[type="text"],
+.form-group input[type="text"]:focus,
+.form-group input[type="email"],
+.form-group input[type="email"]:focus,
+.form-group input[type="password"],
+.form-group input[type="password"]:focus {
+        background-color: rgba(17, 16, 16, 0.568);
+    outline: none;
+    border: solid 1px rgba(255, 255, 255, 0.308);
+    border-radius: 17.5px;
+    margin-bottom: 10px;
+}
+button {
+    border-radius: 18px !important;
+    background-color: rgba(87, 31, 119, 0.938) !important;
+    border: none;
+}
+button:focus {
+    border: none;
+}
+button:hover {
+    background-color: #9e40ca63 !important;
+    color: rgba(255, 255, 255, 0.692) !important;
+}
+#login-session {
+   display: none;
+   position: relative;
+   left: -8.2%;
+   top: 20px;
+}
+#registers {
+    position: relative;
+    left: -0.2%;
+}
+.alrhave {
+    text-decoration: underline rgb(0, 255, 0) !important;
+    color: rgb(4, 255, 4) !important;
+}
+.alrhave:hover {
+    background-color: rgba(4, 255, 4, 0.13);
+    color: rgba(4, 255, 4, 0.13);
+}
+#myrestartbutton {
+    position:relative;
+    padding-top:115px;
+    padding-left:210px;
+    display:block;
+    top: -100px;
+}
+#myrestartbuttons {
+    position:relative;
+    padding-top:115px;
+    padding-left:210px;
+    display:block;
+    top: -269px;
+    width: 1000px;
+    color: white;
+}
+#myrestartbuttons button {
+    background-color: #52b3ec;
+    border-radius: 5px;
+    padding: 15px 25px;
+    position: relative;
+    left: 15%;
+    width: 300px !important;
+}
+#button-klick {
+    position:relative;
+    top: 40px;
+    width: 300px;
+    left: 35%;
+}
+#button-klick button{
+    background-color: #52b3ec;
+    border-radius: 5px;
+    position: relative;
+    outline: none;
+    border: none;
+    color: white;
+    
+}
+#logouts {
+    position:relative;
+    top: 2px;
+    width: 300px;
+    left: -15%;
+}
+#logouts button{
+    background-color: #52b3ec;
+    border-radius: 5px;
+    position: relative;
+    outline: none;
+    border: none;
+    color: white;
+    
+}
+#logouts button:hover{
+    background-color: #9e40ca63 !important;
+    color: rgba(255, 255, 255, 0.692) !important;
+}
+#button-klick:hover{
+    background-color: #9e40ca63 !important;
+    color: rgba(255, 255, 255, 0.692) !important;
+}
+#yrestartbuttonsss {
+    position:relative;
+    padding-top:115px;
+    padding-left:210px;
+    border-radius: 18px !important;
+    background-color: rgba(87, 31, 119, 0.938) !important;
+    border: none;
+    display: block;
+    width: 100px;
+}
+#myrestartbutton button{
+    background-color: #52b3ec;
+    border-radius: 5px;
+    padding: 15px 25px;
+    position: relative;
+    left: -25%;
+    width: 300px !important;
+    
+    outline: none;
+    border: none;
+    color: white;
+    width: 600px;
+}
+#myrestartbutton button:hover{
+    background-color: #4098ca;
+}
+
+canvas{
+    border: 1px solid rgba(255, 255, 255, 0);
+    background: rgba(0, 0, 0, 0);
+}
+.card {
+    background-color: rgba(0, 0, 0, 0.199);
+}
+#yah {
+ width: 50%;
+ height: 70%;
+ position: relative;
+ left: 25%;
+ top: 90px;
+}
+#container-c {
+    display: none;
+}
+.container-username {
+    position: relative;
+    top: 6%;
+    left: 15%;
+    color: white;
+    display: block;
+}
+.container-username input[type="text"] {
+    margin-bottom: 5%;
+    background-color: rgba(0, 0, 0, 0.918);
+    color: white;
+    width: 200px;
+    height: 40px;
+
+}
+.container-username input[type="text"]::placeholder {
+    color: rgba(255, 255, 255, 0.205);
+}
+.container-username input[type="color"] {
+    position: relative;
+    background-color: transparent;
+    border: none;
+    
+}
+#juduls {
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.87);
+    font-weight: bolder;
+    text-align: center;
+    border: green;
+    position: relative;
+    left: 35%;
+}
+hr {
+    background-color: rgba(255, 255, 255, 0.308);
+}
+.myfilter {
+    position:absolute;
+    background-color:#000000;
+    opacity:0.3;
+    width:600px;
+    height:270px;
+    display:none
+}
+#pesan_failed1 {
+    display: none;
+    color: red;
+}
+#pesan_failed2 {
+    display: none;
+    color: red;
+}
+.btn-simps:hover {
+    background-color: rgb(255, 248, 255);
+}
+#username {
+    width: 460px;
+}

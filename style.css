@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.card {
+    position: relative;
+    float: left;
+    width: 40%;
+    height: 625px;
+    display: block;
+    box-sizing: border-box;
+}
+.card-body {
+    padding-top: 25%;
+    width: 85%;
+    position: relative;
+    padding-left: 12%;
+    box-sizing: border-box;
+}
+.judulnya {
+    padding-bottom: 2%;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.form-group {
+    padding-bottom: 2%;
+}
+.warningy {
+    display:none;
+}
+/* Container Dua */
+.container-c{
+    margin-top: 100px;
+    padding: 10px 25px;
+    margin-left: 25%;
+    width: 700px;
+    height: 500px;
+    background-color: white;
+    display: none;
+    border-radius: 15px;
+}
+
+.container-c p{
+    text-align: center;
+    font-weight: 900;
+    font-size: 25px;
+    color: #11998e;
+}
+
+img {
+    position: relative;
+    left:  5%;
+    top: 150px;
+    width: 700px;
+    height: 300px;
+}
+.btn-blue {
+    background-color: blue;
+    border: blue;
+}
+.btn-blue {
+    background-color: blue;
+    border: blue;
+}
